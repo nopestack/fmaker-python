@@ -2,7 +2,7 @@
 Experimental short script i made for UNIX systems.
 
 And that's pretty much it. 
-It's a workspace maker written in python for linux, it creates some folders under the name you put in and tells you when it's done.
+It's a workspace maker written in python for linux, it creates some folders under the name you give inside your home directory and tells you when it's done.
 
 As of right now since it is experimental it only lets you choose the name of the main folder and it automagically creates some folders in it.
 
